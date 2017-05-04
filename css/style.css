@@ -1,0 +1,12 @@
+/* MEDIA */
+
+img, video, audio, iframe, table, form {
+	width: 100;
+	max-width: 100%; /*100 percent within its parent container! */
+}
+
+/* LAYOUT STYLES */
+
+.row {
+	margin-bottom: 20px;
+}
